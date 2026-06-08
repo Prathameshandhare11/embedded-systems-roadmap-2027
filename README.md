@@ -1,5 +1,19 @@
 # embedded-systems-roadmap-2027
-My journey towards becoming an Embedded Firmware and IoT Engineer. STM32 | ESP-IDF | CAN | GPS | GSM | Linux | AWS IoT
+I am an Embedded Systems Developer with 3 years of industry experience.
+
+This repository documents my journey towards Embedded Firmware and IoT Engineer roles.
+
+## Learning Goals
+
+- STM32
+- ESP-IDF
+- CAN Protocol
+- GPS/GNSS
+- GSM/LTE
+- Linux Embedded Systems
+- AWS IoT
+- OTA Updates
+- Python Automation
 
 # Embedded Systems Roadmap 2027
 
