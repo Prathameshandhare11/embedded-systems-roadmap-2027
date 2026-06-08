@@ -1,4 +1,6 @@
 # embedded-systems-roadmap-2027
+
+Hi, I'm Prathamesh.
 I am an Embedded Systems Developer with 3 years of industry experience.
 
 This repository documents my journey towards Embedded Firmware and IoT Engineer roles.
